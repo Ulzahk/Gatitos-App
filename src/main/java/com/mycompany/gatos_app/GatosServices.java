@@ -1,8 +1,10 @@
 package com.mycompany.gatos_app;
 
 import com.google.gson.Gson;
+import com.squareup.okhttp.MediaType;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.Request;
+import com.squareup.okhttp.RequestBody;
 import com.squareup.okhttp.Response;
 import java.awt.Image;
 import java.io.IOException;
@@ -79,9 +81,23 @@ public class GatosServices {
             System.out.println(e);
         }
     }
-    
-    public static void favoritoGato(Gatos gato){
-        
-    }
 
+    public static void favoritoGato(Gatos gato) {
+        try {
+
+            OkHttpClient client = new OkHttpClient();
+            MediaType mediaType = MediaType.parse("application/json");
+            RequestBody body = RequestBody.create(mediaType, "{\n\t\"image_id\": \""+ gato.getId() +"\"\n}");
+            Request request = new Request.Builder()
+                    .url("https://api.thecatapi.com/v1/favourites")
+                    .method("POST", body)
+                    .addHeader("Content-Type", "application/json")
+                    .addHeader("x-api-key", gato.getApiKey())
+                    .build();
+            Response response = client.newCall(request).execute();
+
+        } catch (IOException ex) {
+            System.out.println(ex);
+        }
+    }
 }
