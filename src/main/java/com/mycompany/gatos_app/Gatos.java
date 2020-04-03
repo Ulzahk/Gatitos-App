@@ -3,17 +3,17 @@ package com.mycompany.gatos_app;
 
 public class Gatos {
     //Atributos
-    private int id;
+    private String id;
     private String url;
     private String apiKey = "731eacc4-dacc-400e-9877-c935d106281d";
     private String image;
     
     //Getters y Setters
-    public int getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
