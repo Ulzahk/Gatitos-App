@@ -7,7 +7,7 @@ public class Inicio {
     
     public static void main (String[] args) throws IOException{
         int opcionMenu = -1;
-        String[] botones = {"1. Ver Gatos", "2. Salir"};
+        String[] botones = {"1. Ver Gatos","2. Ver Gatos Favoritos", "3. Salir"};
         
         do {    
             //Menú principal
@@ -24,11 +24,15 @@ public class Inicio {
                 case 0:
                     GatosServices.verGatos();
                     break;
+                case 1:
+                    Gatos gato = new Gatos();
+                    GatosServices.verFavoritos(gato.getApiKey());
+                    break;
                 default:
                     break;
             }
             
             
-        } while (opcionMenu != 1);
+        } while (opcionMenu != -1);
     }  
 }
