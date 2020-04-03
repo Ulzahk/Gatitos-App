@@ -175,8 +175,20 @@ public class GatosServices {
             }
         }
     }
-    
-    public static void borrarFavorito(GatosFavoritos gatofavorito){
-        
+
+    public static void borrarFavorito(GatosFavoritos gatofavorito) {
+        try {
+            OkHttpClient client = new OkHttpClient();
+            
+            Request request = new Request.Builder()
+                    .url("https://api.thecatapi.com/v1/favourites/"+gatofavorito.getId()+"")
+                    .delete(null)
+                    .addHeader("Content-Type", "application/json ")
+                    .addHeader("x-api-key", gatofavorito.getApiKey())
+                    .build();
+            Response response = client.newCall(request).execute();
+        } catch (IOException e) {
+            System.out.println(e);
+        }
     }
 }
