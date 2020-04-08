@@ -1,1 +1,3 @@
 # Gatitos-App
+## Objetivo
+### Requerimientos
