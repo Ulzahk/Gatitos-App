@@ -1,4 +1,4 @@
-# Gatitos-App 🐱 🐱 🐱
+# Gatitos-App 🐱
 <p align="center">
   <img src="https://github.com/Ulzahk/Gatitos-App/blob/master/Imagenes/Menu1Opciones.jpg">
 </p>
@@ -13,7 +13,7 @@
 
 ## [Español]
 ## Objetivo 🎯
-Creación de Aplicación que utilice los recursos de The Cat API para mostrar imagenes aleatorias de gatos e interactuar con ellas.
+Crear una aplicación de escritorio que utilice los recursos de The Cat API para mostrar imagenes aleatorias de gatos e interactuar con ellas.
 ### Requerimientos 📃
 ### Herramientas 🛠
 
