@@ -11,6 +11,28 @@
 
 ## [English]
 
+### Objetive 🎯
+- Crear a Deskapp using The Cat API resourser to show random cat pictures and interact with those
+
+### Functions 📃
+
+### Tools 🛠
+- [Java Deveopment Kit 8 o Superior](https://bit.ly/2XCzjH2 "Java Deveopment Kit 8 o Superior")
+- [IDE Apache NetBeans](https://bit.ly/2RFK4oa "IDE Apache NetBeans")
+
+### Installation ⚙️
+1. Download the repository files from the download section or clone this repository writing in the bash terminal the next command: 
+
+-`$ git clone https://github.com/Ulzahk/Gatitos-App`
+
+2. Open the project with NetBeans or any other IDE that use Java.
+3. Execute the application.
+
+### Contact Media
+- [Linkedin](https://www.linkedin.com/in/francisco-j-suarez/ "Linkedin")
+- [Facebook](https://web.facebook.com/Ulzahk "Facebook")
+- [Twitter](https://twitter.com/ulzahk "Twitter")
+
 ## [Español]
 
 ### Objetivo 🎯
@@ -18,7 +40,7 @@
 
 ### Funciones 📃
 1. Al dar clic Ver Gatos aparece una imagen aleatoria de un gatito.
-2. En el segundo menú al dar clic en Favorito, guarda la imagen de gatito
+2. En el segundo menú al dar clic en Favorito, guarda la imagen de gatito.
 3. Dando clic en Ver Gatos Favoritos, mostrara la imagen aleatoria de un gatito guardado en favoritos.
 4. La opción Eliminar Favorito borrara la imagen del grupo favoritos.
 5. Seleccionar Salir terminara la ejecución de la aplicación.
@@ -27,15 +49,15 @@
 - [Java Deveopment Kit 8 o Superior](https://bit.ly/2XCzjH2 "Java Deveopment Kit 8 o Superior")
 - [IDE Apache NetBeans](https://bit.ly/2RFK4oa "IDE Apache NetBeans")
 
-### Instalación 📲
+### Instalación ⚙️
 1. Descargar los archivos del repositorio desde la sección de descargar o clonar este repositorio escribiendo el siguiente comando en la terminal bash: 
 
---`$ git clone https://github.com/Ulzahk/Gatitos-App`
+-`$ git clone https://github.com/Ulzahk/Gatitos-App`
 
 2. Abrir el proyecto con NetBeans u otro IDE que use Java.
 3. Ejecutar la aplicación.
 
-### Medios de Contacto
+### Medios de Contacto 📲
 - [Linkedin](https://www.linkedin.com/in/francisco-j-suarez/ "Linkedin")
 - [Facebook](https://web.facebook.com/Ulzahk "Facebook")
 - [Twitter](https://twitter.com/ulzahk "Twitter")
