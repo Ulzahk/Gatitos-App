@@ -30,12 +30,12 @@
 ### Instalación 📲
 1. Descargar los archivos del repositorio desde la sección de descargar o clonar este repositorio escribiendo el siguiente comando en la terminal bash: 
 
-`$ git clone https://github.com/Ulzahk/Gatitos-App`
+--`$ git clone https://github.com/Ulzahk/Gatitos-App`
 
 2. Abrir el proyecto con NetBeans u otro IDE que use Java.
 3. Ejecutar la aplicación.
 
 ### Medios de Contacto
 - [Linkedin](https://www.linkedin.com/in/francisco-j-suarez/ "Linkedin")
-- [Email](ulzahk@gmail.com "Email")
+- [Facebook](https://web.facebook.com/Ulzahk "Facebook")
 - [Twitter](https://twitter.com/ulzahk "Twitter")
