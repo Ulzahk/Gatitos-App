@@ -14,9 +14,15 @@
 ## [Español]
 ## Objetivo 🎯
 Crear una aplicación de escritorio que utilice los recursos de The Cat API para mostrar imagenes aleatorias de gatos e interactuar con ellas.
-### Requerimientos 📃
+
+### Requisitos 📃
+1. Al dar clic Ver Gatos aparece una imagen aleatoria de un gatito.
+2. En el segundo menú al dar clic en Favorito, guarda la imagen de gatito
+3. Dando clic en Ver Gatos Favoritos, mostrara la imagen aleatoria de un gatito guardado en favoritos.
+4. La opción Eliminar Favorito borrara la imagen del grupo favoritos.
+5. Seleccionar Salir terminara la ejecución de la aplicación.
+
 ### Herramientas 🛠
-• Java Deveopment Kit 8 o Superior
-• IDE Apache NetBeans 11.3 https://netbeans.apache.org/download/nb113/index.html
- 
-## [Français]
+- Java Deveopment Kit 8 o Superior
+- IDE Apache NetBeans 11.3 https://netbeans.apache.org/download/nb113/index.html
+
