@@ -12,7 +12,7 @@
 ## [English]
 
 ### Objetive 🎯
-- Build a Deskapp using The Cat API resources to show random cat pictures and interact with those.
+- Build a desktop app using The Cat API resources to show random cat pictures and interact with those.
 
 ### Functions 📃
 1. Clicking Ver Gatos will show a random kitty image.
