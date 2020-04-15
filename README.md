@@ -12,7 +12,7 @@
 ## [English]
 
 ## [Español]
-## Objetivo 🎯
+### Objetivo 🎯
 Crear una aplicación de escritorio que utilice los recursos de The Cat API para mostrar imagenes aleatorias de gatos e interactuar con ellas.
 
 ### Requisitos 📃
@@ -23,6 +23,6 @@ Crear una aplicación de escritorio que utilice los recursos de The Cat API para
 5. Seleccionar Salir terminara la ejecución de la aplicación.
 
 ### Herramientas 🛠
-- Java Deveopment Kit 8 o Superior
-- IDE Apache NetBeans 11.3 https://netbeans.apache.org/download/nb113/index.html
+- Java Deveopment Kit 8 o Superior https://bit.ly/2XCzjH2
+- IDE Apache NetBeans https://bit.ly/2RFK4oa
 
