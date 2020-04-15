@@ -29,7 +29,7 @@ Crear una aplicación de escritorio que utilice los recursos de The Cat API para
 ### Instalación 📲
 1. Descargar los archivos del repositorio desde la sección de descargar o clonar este repositorio escribiendo el siguiente comando en la terminal bash: 
 
-`$ git clone https://github.com/Ulzahk/Gatitos-App`
+* `$ git clone https://github.com/Ulzahk/Gatitos-App`
 
 2. Abrir el proyecto con NetBeans u otro IDE que use Java.
 3. Ejecutar la aplicación.
