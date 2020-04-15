@@ -12,10 +12,11 @@
 ## [English]
 
 ## [Español]
-### Objetivo 🎯
-Crear una aplicación de escritorio que utilice los recursos de The Cat API para mostrar imagenes aleatorias de gatos e interactuar con ellas.
 
-### Requisitos 📃
+### Objetivo 🎯
+- Crear una aplicación de escritorio que utilice los recursos de The Cat API para mostrar imagenes aleatorias de gatos e interactuar con ellas.
+
+### Funciones 📃
 1. Al dar clic Ver Gatos aparece una imagen aleatoria de un gatito.
 2. En el segundo menú al dar clic en Favorito, guarda la imagen de gatito
 3. Dando clic en Ver Gatos Favoritos, mostrara la imagen aleatoria de un gatito guardado en favoritos.
