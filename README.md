@@ -24,14 +24,16 @@
 5. Seleccionar Salir terminara la ejecución de la aplicación.
 
 ### Herramientas 🛠
-- Java Deveopment Kit 8 o Superior https://bit.ly/2XCzjH2
+- [Java Deveopment Kit 8 o Superior] (https://bit.ly/2XCzjH2)
 - IDE Apache NetBeans https://bit.ly/2RFK4oa
 
 ### Instalación 📲
 1. Descargar los archivos del repositorio desde la sección de descargar o clonar este repositorio escribiendo el siguiente comando en la terminal bash: 
 
-* `$ git clone https://github.com/Ulzahk/Gatitos-App`
+##`$ git clone https://github.com/Ulzahk/Gatitos-App`
 
 2. Abrir el proyecto con NetBeans u otro IDE que use Java.
 3. Ejecutar la aplicación.
 
+### Contactame 
+• 
