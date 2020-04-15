@@ -35,7 +35,7 @@
 2. Abrir el proyecto con NetBeans u otro IDE que use Java.
 3. Ejecutar la aplicación.
 
-### Encuentrame
-- Linkedin
-- Facebook
-- Twitter
+### Medios de Contacto
+- [Linkedin](https://www.linkedin.com/in/francisco-j-suarez/ "Linkedin")
+- [Email](ulzahk@gmail.com "Email")
+- [Twitter](https://twitter.com/ulzahk "Twitter")
