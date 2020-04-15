@@ -12,9 +12,14 @@
 ## [English]
 
 ### Objetive 🎯
-- Crear a Deskapp using The Cat API resourser to show random cat pictures and interact with those
+- Build a Deskapp using The Cat API resourser to show random cat pictures and interact with those
 
 ### Functions 📃
+1. Clicking Ver Gatos will show a random kitty image.
+2. In the second menu clicking on Favorito, saves the kitty image.
+3. Clicking Ver Gatos Favoritos will show a random image of a kitty saved in favorites.
+4. The Eliminar Favorito Option will delete the image from favorites.
+5. Select Salir will end the app execution. 
 
 ### Tools 🛠
 - [Java Deveopment Kit 8 o Superior](https://bit.ly/2XCzjH2 "Java Deveopment Kit 8 o Superior")
@@ -23,7 +28,7 @@
 ### Installation ⚙️
 1. Download the repository files from the download section or clone this repository writing in the bash terminal the next command: 
 
--`$ git clone https://github.com/Ulzahk/Gatitos-App`
+      `$ git clone https://github.com/Ulzahk/Gatitos-App`
 
 2. Open the project with NetBeans or any other IDE that use Java.
 3. Execute the application.
@@ -36,13 +41,13 @@
 ## [Español]
 
 ### Objetivo 🎯
-- Crear una aplicación de escritorio que utilice los recursos de The Cat API para mostrar imagenes aleatorias de gatos e interactuar con ellas.
+- Construir una aplicación de escritorio que utilice los recursos de The Cat API para mostrar imagenes aleatorias de gatos e interactuar con ellas.
 
 ### Funciones 📃
 1. Al dar clic Ver Gatos aparece una imagen aleatoria de un gatito.
-2. En el segundo menú al dar clic en Favorito, guarda la imagen de gatito.
+2. En el segundo menú al hacer clic en Favorito, guarda la imagen del gatito.
 3. Dando clic en Ver Gatos Favoritos, mostrara la imagen aleatoria de un gatito guardado en favoritos.
-4. La opción Eliminar Favorito borrara la imagen del grupo favoritos.
+4. La opción Eliminar Favorito borrara la imagen de favoritos.
 5. Seleccionar Salir terminara la ejecución de la aplicación.
 
 ### Herramientas 🛠
@@ -52,7 +57,7 @@
 ### Instalación ⚙️
 1. Descargar los archivos del repositorio desde la sección de descargar o clonar este repositorio escribiendo el siguiente comando en la terminal bash: 
 
--`$ git clone https://github.com/Ulzahk/Gatitos-App`
+      `$ git clone https://github.com/Ulzahk/Gatitos-App`
 
 2. Abrir el proyecto con NetBeans u otro IDE que use Java.
 3. Ejecutar la aplicación.
