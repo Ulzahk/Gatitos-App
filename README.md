@@ -14,7 +14,7 @@
 ### Objetive 🎯
 - Build a desktop app using The Cat API resources to show random cat pictures and interact with those.
 
-### Functions 📃
+### Functions 📜
 1. Clicking Ver Gatos will show a random kitty image.
 2. In the second menu clicking on Favorito, saves the kitty image.
 3. Clicking Ver Gatos Favoritos will show a random image of a kitty saved in favorites.
